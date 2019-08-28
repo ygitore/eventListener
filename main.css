@@ -5,13 +5,11 @@
     margin: 0px;
     padding:0px;
     justify-content: space-between;
-
+    flex-basis: 50%;
+    
 }
 .card img{
     width: 200px;
     height: 100px;
     border-radius: 50%;
-}
-.ee{
-    flex-basis: 30%;
 }
