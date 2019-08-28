@@ -1,0 +1,17 @@
+
+.card{
+    display: flex;
+    flex-grow: 1;
+    margin: 0px;
+    padding:0px;
+    justify-content: space-between;
+
+}
+.card img{
+    width: 200px;
+    height: 100px;
+    border-radius: 50%;
+}
+.ee{
+    flex-basis: 30%;
+}
